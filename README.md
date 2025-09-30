@@ -30,4 +30,4 @@ I am a passionate technologist combining academic rigor with entrepreneurial dri
 ---
 ### 🔗 Connect With Me
 
-[![LinkedIn](www.linkedin.com/in/shubham-b-1bb752239)]
+[![LinkedIn](https://www.linkedin.com/in/shubham-b-1bb752239)]
