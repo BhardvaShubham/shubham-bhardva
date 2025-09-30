@@ -28,15 +28,6 @@ I am a passionate technologist combining academic rigor with entrepreneurial dri
 | **Web Development** | [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/) |
 
 ---
-
-### 📊 GitHub Stats
-
-[![Shubham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shubhambhardva&show_icons=true&theme=dark&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhambhardva&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
 ### 🔗 Connect With Me
 
 [![LinkedIn](www.linkedin.com/in/shubham-b-1bb752239)]
